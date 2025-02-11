@@ -1,4 +1,5 @@
 egy sor
 masodik sor
-harmadik sor (master)
+harmadik sor (Eliot)
 negyedik sor (master)
+
